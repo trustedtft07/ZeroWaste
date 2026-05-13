@@ -2,12 +2,6 @@
 
 > Aplikasi Flutter untuk mengelola stok bahan makanan, mencegah pemborosan, dan mendapatkan rekomendasi resep berbasis AI.
 
-**Dibuat oleh:** Fikri Muhamad Fadhil (09021382429164)  
-**Dosen Pengampu:** Redho Aidil Iqrom M.Kom.  
-**Program Studi:** Teknik Informatika — Fakultas Ilmu Komputer, Universitas Sriwijaya
-
----
-
 ## 📋 Daftar Isi
 
 1. [Tentang Aplikasi](#tentang-aplikasi)
