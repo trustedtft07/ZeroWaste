@@ -1,0 +1,45 @@
+name: zerowaste
+description: "Aplikasi ZeroWaste - Pembantu Urusan Dapur"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Firebase
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.4
+  firebase_messaging: ^15.1.3
+
+  # Barcode Scanner
+  mobile_scanner: ^5.2.3
+
+  # Google Gemini AI - via REST API langsung (free, no App Check needed)
+  http: ^1.2.2
+
+  # Local Notifications
+  flutter_local_notifications: ^17.2.3
+
+  # Utilities
+  intl: ^0.19.0
+  uuid: ^4.5.1
+  shared_preferences: ^2.3.3
+  timezone: ^0.9.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
